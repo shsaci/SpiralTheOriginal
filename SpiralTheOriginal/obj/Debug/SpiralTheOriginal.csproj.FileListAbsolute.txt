@@ -1,0 +1,6 @@
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\bin\Debug\SpiralTheOriginal.exe.config
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\bin\Debug\SpiralTheOriginal.exe
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\bin\Debug\SpiralTheOriginal.pdb
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\obj\Debug\SpiralTheOriginal.csprojResolveAssemblyReference.cache
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\obj\Debug\SpiralTheOriginal.exe
+c:\users\c0mputer\Documents\PythonFor\CS\Projects\SpiralTheOriginal\SpiralTheOriginal\obj\Debug\SpiralTheOriginal.pdb

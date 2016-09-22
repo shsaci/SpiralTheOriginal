@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralTheOriginal", "SpiralTheOriginal\SpiralTheOriginal.csproj", "{E351323E-496A-42F2-8F35-5BAE0AAB7D05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpiralTests", "SpiralTests\SpiralTests.csproj", "{E2D8FE36-2DB9-4EE7-8CBD-182ED06AA570}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E351323E-496A-42F2-8F35-5BAE0AAB7D05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E351323E-496A-42F2-8F35-5BAE0AAB7D05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E351323E-496A-42F2-8F35-5BAE0AAB7D05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E351323E-496A-42F2-8F35-5BAE0AAB7D05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2D8FE36-2DB9-4EE7-8CBD-182ED06AA570}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2D8FE36-2DB9-4EE7-8CBD-182ED06AA570}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2D8FE36-2DB9-4EE7-8CBD-182ED06AA570}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2D8FE36-2DB9-4EE7-8CBD-182ED06AA570}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
